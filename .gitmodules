@@ -1,3 +1,4 @@
 [submodule "jacamo-rest"]
 	path = jacamo-rest
 	url = https://github.com/danaivach/jacamo-rest.git
+  branch = master
